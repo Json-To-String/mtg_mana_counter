@@ -1,1 +1,1 @@
-# mtg_energy_counter
+# mtg_mana_counter
